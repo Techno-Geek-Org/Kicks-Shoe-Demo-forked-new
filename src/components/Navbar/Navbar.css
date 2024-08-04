@@ -1,0 +1,35 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 100%;
+    height: 13vh;
+    background-color: #FAFAFA;
+    margin: 20px;
+    border-radius: 23px;
+}
+.navbar .nav-left{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 33%;
+}
+.nav-left p{
+    font-weight: 600;
+    font-size: 18px;
+    cursor: pointer;
+}
+.navbar .nav-center{
+    width: 33%;
+    font-size: 30px;
+    font-family: "Rowdies", sans-serif;
+    font-weight: 500;
+}
+.navbar .nav-right{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    gap: 50px;
+    font-size: 1.3vw;
+    padding: 30px;
+}

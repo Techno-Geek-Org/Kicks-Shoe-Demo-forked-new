@@ -1,0 +1,51 @@
+.categories{
+    background-color: #232321;
+    padding: 0 50px;
+    padding-top: 50px;
+    padding-right: 0px;
+    max-width: 100%;
+}
+.categories .category-title{
+    font-size: 2.5vw;
+    color: white;
+}
+.categories .category-shoes{
+    display: flex;
+    margin-top: 50px;
+}
+.category-shoes .shoe-1{
+    position: relative;
+    width: 50%;
+    border-top-left-radius: 35px;
+    border: 1px solid white;
+    height: 80vh;
+}
+.shoe-1 h2{
+    position: absolute;
+    top: 86%;
+    left: 5%;
+    font-size: 2vw;
+}
+.shoe-2 h2{
+    position: absolute;
+    top: 86%;
+    left: 5%;
+    font-size: 2vw;
+}
+.category-shoes .shoe-2{
+    position: relative;
+    width: 50%;
+    border: 1px solid white;
+    height: 80vh;
+}
+.shoe-1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 35px;
+}
+.shoe-2 img{
+    width: 100%;
+    height: 100%;  
+    object-fit: cover;
+}
