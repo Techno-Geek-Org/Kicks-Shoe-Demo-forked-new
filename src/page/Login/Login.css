@@ -1,0 +1,110 @@
+.login{
+    max-width: 100%;
+    margin: 30px;
+    display: flex;
+}
+.login .log-left{
+    width: 50%;
+    padding: 20px 55px;
+}
+.log-left h2{
+    font-size: 2vw;
+    font-weight: 700;
+}
+.log-para {
+    font-size: 1.5vw;
+    margin-top: 15px;
+    text-decoration: underline;
+    cursor: pointer;
+    color: green;
+}
+.log-input{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.log-input input{
+    margin: 20px 0;
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 7px;
+    font-family: "Outfit", sans-serif;
+    font-size: 1rem;
+}
+.log-check{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    font-size: 1.1rem;
+}
+.email{
+    width: 30%;
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px 20px;
+    border-radius: 7px;
+    font-family: "Outfit", sans-serif;
+    font-size: 1rem;
+    background-color: black;
+    color: white;
+}
+.log-buttons{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    gap: 30px;
+    margin-top: 30px;
+}
+.log-buttons button{
+    padding: 16px 48px;
+    border-radius: 12px;
+    border: 2px solid black;
+}
+.log-buttons i{
+    font-size: 2rem;
+}
+.log-conf{
+    margin-top: 20px;
+    font-size: 1.2vw;
+}
+.create-acc{
+    margin-top: 20px;
+    font-size: 1.2vw; 
+}
+.create-acc span{
+    color: green;
+    cursor: pointer;
+    text-decoration: none;
+}
+.log-right{
+    width: 50%;
+    margin: 10px 30px;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 15px;
+}
+.log-right h2{
+    font-size: 2vw;
+}
+.log-right p{
+    font-size: 1.3vw;
+    margin-top: 1rem;
+}
+.log-right ul li{
+    font-size: 1.1vw;
+    margin-top: 1rem;
+    list-style: disc;
+    margin-left: 1.3rem;
+}
+.join{
+    width: 100%;
+    text-align: center;
+    margin-top: 4rem;
+    padding: 10px 20px;
+    border-radius: 7px;
+    font-family: "Outfit", sans-serif;
+    font-size: 1rem;
+    background-color: black;
+    color: white;
+}
