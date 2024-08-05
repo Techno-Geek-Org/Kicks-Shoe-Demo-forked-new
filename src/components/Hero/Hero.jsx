@@ -3,7 +3,7 @@ import './Hero.css'
 
 const Hero = () => {
   return (
-    <>
+    <div>
       <div className='hero'>
         <h1>DO IT <span>RIGHT</span></h1>
       </div>
@@ -18,7 +18,7 @@ const Hero = () => {
           <img className='img2' src="/assets/Rectangle2.jpg" alt="" />
         </div>
       </div>
-    </>
+    </div>
   )
 }
 

@@ -10,3 +10,6 @@ body{
   font-family: "Outfit", sans-serif;
   overflow-x: hidden;
 }
+ul li{
+  list-style: none;
+}

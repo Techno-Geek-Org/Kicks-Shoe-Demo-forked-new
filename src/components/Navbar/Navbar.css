@@ -12,24 +12,24 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    width: 33%;
+    width: 33.33%;
 }
 .nav-left p{
     font-weight: 600;
-    font-size: 18px;
+    font-size: 1.5vw;
     cursor: pointer;
 }
 .navbar .nav-center{
-    width: 33%;
-    font-size: 30px;
+    width: 33.33%;
+    font-size: 2.2vw;
     font-family: "Rowdies", sans-serif;
-    font-weight: 500;
+    font-weight: 900;
 }
 .navbar .nav-right{
     display: flex;
     align-items: center;
     justify-content: center; 
     gap: 50px;
-    font-size: 1.3vw;
+    font-size: 1.5vw;
     padding: 30px;
 }

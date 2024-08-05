@@ -4,6 +4,7 @@ import Hero from './components/Hero/Hero'
 import Cards from './components/Cards/Cards'
 import Categories from './components/Categories/Categories'
 import Review from './components/Reviews/Review'
+import Footer from './components/Footer/Footer'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <Cards />
       <Categories />
       <Review />
+      <Footer />
     </div>
   )
 }
