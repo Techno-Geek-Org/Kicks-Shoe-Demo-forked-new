@@ -7,6 +7,7 @@ import Signup from './page/Signup/Signup.jsx'
 import Login from './page/Login/Login.jsx'
 import Hero from './components/Hero/Hero.jsx'
 
+
 const router = createBrowserRouter([
   {
     path: "/",
