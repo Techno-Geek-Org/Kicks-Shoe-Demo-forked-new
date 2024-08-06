@@ -42,9 +42,14 @@ Our goal is to build this entire project in 2 weeks.
 
 ## Contributors
 
-- **Frontend Developers**: Srinjoy Rakshit, Sumit Das
-- **Backend Developer**: Himadri Roy
-- **Cyber Security Analyst**: Kuntal Gain
+<a href="https://github.com/Techno-Geek-Org/Kicks-Shoe-Demo/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Techno-Geek-Org/Kicks-Shoe-Demo" />
+</a>
+
+<p>&nbsp;Srinjoy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kuntal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sumit</p>
+<p>&nbsp;Rakshit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Das</p>
+
+
 
 ## Footer
 
