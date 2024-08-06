@@ -16,7 +16,7 @@ const Navbar = () => {
       </div>
       <div className="nav-right">
         <Link to='/login'><button className='log'>Log In</button></Link>
-        <FaShoppingCart />
+        <Link to='/cart' style={{ textDecoration: 'none', color: 'black'}}><FaShoppingCart /></Link>
       </div>
     </div>
   )

@@ -1,6 +1,7 @@
 import React from "react";
 import "./Cards.css";
 import cardData from '../../data.json';
+import { Link } from "react-router-dom";
 
 const Cards = () => {
   return (
@@ -22,7 +23,7 @@ const Cards = () => {
                 <h2>{item.title}</h2>
               </div>
               <div className="card-price">
-                <h3>VIEW PRODUCT - <span>{item.price}</span></h3>
+                <Link to='./products' style={{ textDecoration: 'none', color: 'white' }}><h3>VIEW PRODUCT - <span>{item.price}</span></h3></Link>
               </div>
             </div>
         );

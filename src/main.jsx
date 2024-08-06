@@ -6,7 +6,8 @@ import './index.css'
 import Signup from './page/Signup/Signup.jsx'
 import Login from './page/Login/Login.jsx'
 import Hero from './components/Hero/Hero.jsx'
-
+import Products from './components/Products/Products.jsx'
+import Cart from './page/Cart/Cart.jsx'
 
 const router = createBrowserRouter([
   {
@@ -25,6 +26,14 @@ const router = createBrowserRouter([
         path: "/login",
         element: <Login />
       },
+      {
+        path: '/cart',
+        element: <Cart />
+      },
+      {
+        path: '/products',
+        element: <Products />
+      }
     ]
   }
 ])

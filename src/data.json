@@ -22,5 +22,29 @@
       "title": "ADIDAS 4DFWD X PARLEY OFFWHITE SHOES",
       "price": "$380",
       "image": "/assets/shoe4.png"
+    },
+    {
+      "id": 5,
+      "title": "ADIDAS 4XFWD X OZELIA SHOES GREEN",
+      "price": "$150",
+      "image": "/assets/shoe5.png"
+    },
+    {
+      "id": 6,
+      "title": "ADIDAS 4DFWD X MIAMI JOGGING SHOES",
+      "price": "$195",
+      "image": "/assets/shoe6.png"
+    },
+    {
+      "id": 7,
+      "title": "ADIDAS 4DFWX 2 OLIVO RUNNING SHOES",
+      "price": "$255",
+      "image": "/assets/shoe7.png"
+    },
+    {
+      "id": 8,
+      "title": "ADIDAS 4DEWD X OZELIA SHOES BLUE",
+      "price": "$145",
+      "image": "/assets/shoe8.png"
     }
 ]
