@@ -1,9 +1,12 @@
 import React from 'react'
 import './Hero.css'
+import Cards from '../Cards/Cards'
+import Categories from '../Categories/Categories'
+import Review from '../Reviews/Review'
 
 const Hero = () => {
   return (
-    <>
+    <div>
       <div className='hero'>
         <h1>DO IT <span>RIGHT</span></h1>
       </div>
@@ -18,7 +21,10 @@ const Hero = () => {
           <img className='img2' src="/assets/Rectangle2.jpg" alt="" />
         </div>
       </div>
-    </>
+      <Cards />
+      <Categories />
+      <Review />
+    </div>
   )
 }
 

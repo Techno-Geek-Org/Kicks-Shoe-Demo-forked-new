@@ -1,0 +1,112 @@
+.footer{
+    max-width: 100%;
+    margin: 0 50px;
+    margin-top: 30px;
+    padding: 50px;
+    background-color: #4A69E2;
+    border-radius: 30px;
+}
+.footer .footer-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.foot-para{
+    font-size: 1.7vw;
+    color: white;
+}
+.foot-para p{
+    margin-top: 6px;
+}
+.foot-input{
+    margin-top: 30px;
+}
+.foot-input input{
+    padding: 10px 20px;
+    width: 300px;
+    border: 2px solid white;
+    outline: none;
+    border-radius: 8px;
+    background-color: #4A69E2;
+}
+.foot-input input::placeholder{
+    color: white;
+}
+.foot-input button{
+    padding: 12px 20px;
+    margin-left: 5px;
+    background-color: #212121;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+}
+.foot-right{
+    font-size: 10vw;
+    font-weight: 900;
+    font-family: "Rowdies", sans-serif;
+    color: white;
+}
+.footer-bottom{
+    background-color: #212121;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.footer-bottom .foot-about{
+    padding: 10px;
+    width: 40%;
+}
+.foot-about h2{
+    font-size: 2.5vw;
+    color: gold;
+}
+.foot-about p{
+    font-size: 1.5vw;
+    margin-top: 20px;
+    letter-spacing: 1px;
+}
+.footer-bottom .foot-lists{
+    padding: 18px;
+}
+.foot-lists h2{
+    font-size: 2.5vw;
+    color: gold;
+}
+.foot-lists ul li{
+    margin-top: 10px;
+    font-size: 1.5rem;
+}
+.foot-companies{
+    padding: 18px;
+}
+.foot-companies h2{
+    font-size: 2.5vw;
+    color: gold;
+}
+.foot-companies ul li{
+    margin-top: 10px;
+    font-size: 1.5rem;
+}
+.foot-follow{
+    padding: 18px;  
+}
+.foot-follow h2{
+    font-size: 2.5vw;
+    color: gold;
+    margin-bottom: 10px;
+}
+.foot-follow i{
+    font-size: 1.5rem;
+    margin-left: 15px;
+}
+.copyright{
+    text-align: center;
+    margin-top: 30px;
+}
+.copyright p{
+    font-size: 1.6vw;
+}

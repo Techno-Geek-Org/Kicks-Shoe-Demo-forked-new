@@ -1,18 +1,15 @@
+// src/server.ts
+import app from './app'; // Import the app instance
+import dotenv from 'dotenv';
 
-import express from "express"
+dotenv.config();
 
-const hostName: string = "localhost"
-const portNumber: number = 6969
+// Set default values for hostname and port from environment variables or fallback to defaults
+const hostName: string = process.env.HOSTNAME || 'localhost';
+const portNumber: number = parseInt(process.env.PORT || '6969', 10);
 
-const app = express()
-
-app.get("/", (request: express.Request, response: express.Response) => {
-    response.status(200);
-    response.send(`<h1>Method GET</h1>`)
-})
-
-
+// Start the server
 app.listen(portNumber, hostName, () => {
-    console.log("Welcome to Express Server")
-    console.log(`http://${hostName}:${portNumber}`)
-})
+    console.log(`Welcome to Express Server`);
+    console.log(`Server is running at http://${hostName}:${portNumber}`);
+});

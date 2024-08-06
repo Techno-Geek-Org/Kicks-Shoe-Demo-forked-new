@@ -1,26 +1,26 @@
 [
     {
-        "id": 1,
-        "title": "ADIDAS 4DFWD X PARLEY RUNNING SHOES",
-        "price": "$125",
-        "image": "/assets/shoe1.png"
+      "id": 1,
+      "title": "ADIDAS 4DFWD X PARLEY RUNNING SHOES",
+      "price": "$125",
+      "image": "/assets/shoe1.png"
     },
     {
-        "id": 2,
-        "title": "ADIDAS 4DFWD X PARLEY BLAZING SHOES",
-        "price": "$155",
-        "image": "/assets/shoe2.png"
+      "id": 2,
+      "title": "ADIDAS 4DFWD X PARLEY BLAZING SHOES",
+      "price": "$155",
+      "image": "/assets/shoe2.png"
     },
     {
-        "id": 3,
-        "title": "ADIDAS 4DFWD X PARLEY SILVER SHOES",
-        "price": "$225",
-        "image": "/assets/shoe3.png"
+      "id": 3,
+      "title": "ADIDAS 4DFWD X PARLEY SILVER SHOES",
+      "price": "$225",
+      "image": "/assets/shoe3.png"
     },
     {
-        "id": 4,
-        "title": "ADIDAS 4DFWD X PARLEY OFFWHITE SHOES",
-        "price": "$380",
-        "image": "/assets/shoe4.png"
+      "id": 4,
+      "title": "ADIDAS 4DFWD X PARLEY OFFWHITE SHOES",
+      "price": "$380",
+      "image": "/assets/shoe4.png"
     }
 ]

@@ -14,6 +14,7 @@ This project is a full-stack shoe-selling website developed to demonstrate our c
 - Tailwind CSS
 - JavaScript
 - Vite
+- CSS
 
 ### Backend
 - Node.js
@@ -42,7 +43,7 @@ Our goal is to build this entire project in 2 weeks.
 ## Contributors
 
 - **Frontend Developers**: Srinjoy Rakshit, Sumit Das
-- **Backend Developer**: Himadri
+- **Backend Developer**: Himadri Roy
 - **Cyber Security Analyst**: Kuntal Gain
 
 ## Footer

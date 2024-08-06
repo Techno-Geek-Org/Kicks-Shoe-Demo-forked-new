@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Good Quality",
+      "desc": "I highly recommend shopping from kicks.",
+      "avatar": "/assets/avatar1.jpg",
+      "image": "/assets/review_img1.png"
+    },
+    {
+      "id": 2,
+      "title": "Really Amazing",
+      "desc": "Product quality is awesome. Highly recommended.",
+      "avatar": "/assets/avatar2.png",
+      "image": "/assets/review_img2.png"
+    },
+    {
+      "id": 3,
+      "title": "Awesome products",
+      "desc": "Highly recommended for buying quality products.",
+      "avatar": "/assets/avatar3.png",
+      "image": "/assets/review_img3.png"
+    }
+]
