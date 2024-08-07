@@ -11,9 +11,12 @@
 .card-head h2{
     font-size: 4vw;
     font-weight: 800;
+    margin-bottom: 30px;
+    margin-left: -40px;
 }
 .card-head button{
     padding: 15px 25px;
+    margin-left: 20px;
     margin-top: 60px;
     border-radius: 7px;
     border: none;
