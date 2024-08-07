@@ -5,7 +5,7 @@ import User from '../models/user_model';
 
 // Register User
 export const registerUser = async (req: Request, res: Response) => {
-    const { name, email, password } = req.body;
+    const { fname, lname, gender, email, password } = req.body;
 
     try {
         let user = await User.findOne({ email });
@@ -15,7 +15,9 @@ export const registerUser = async (req: Request, res: Response) => {
         }
 
         user = new User({
-            name,
+            fname,
+            lname,
+            gender,
             email,
             password,
         });
